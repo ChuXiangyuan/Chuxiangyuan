@@ -8,19 +8,25 @@
 
 🤔这里记录了我对生活、工作的思考，有关科技、有关产品、有关设计，还有一些有关开发
 
-#### 重点推荐：
+#### 重点文章推荐 🎯
 
-1️⃣ [iPhone 屏幕尺寸进化历程背后的 app 设计哲学](https://steppark.net/15978209110755.html)
+1️⃣ [从第一代 iPhone 细数到 iPhone 12，iPhone 屏幕尺寸进化历程背后的 app 设计哲学](https://steppark.net/15978209110755.html)
 
-2️⃣ [订阅 Apple Music 该选哪个区？](https://steppark.net/15844652241485.html)
+2️⃣ [订阅 Apple Music 该选哪个区？——中美坡港日五大地区全对比](https://steppark.net/15844652241485.html)
 
 3️⃣ [跨平台设计时的思考路径](https://steppark.net/15706056024784.html)
 
+4️⃣ [Sign in with Apple 的设计准则和功能实现](https://steppark.net/15676959360699.html)
+
+5️⃣ [核心设计原理](https://steppark.net/15702878227518.html)
+
 ### 联系我 Contact Me 📫
 
-- 我的微博：[@北极熊不不](http://weibo.com/chuxiangyuan1104)
-
 - 我的 Email：[chuxiangyuan1104@gmail.com](mailto://chuxiangyuan1104@gmail.com)
+
+- 我的微信：chuxiangyuan
+
+- 我的微博：[@北极熊不不](http://weibo.com/chuxiangyuan1104)
 
 - 我的 Twitter：[@chuxiangyuan](https://twitter.com/chuxiangyuan/)
 
