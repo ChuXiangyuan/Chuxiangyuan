@@ -14,7 +14,7 @@
 
 2️⃣ [从第一代 iPhone 细数到 iPhone 12，iPhone 屏幕尺寸进化历程背后的 app 设计哲学](https://steppark.net/15978209110755.html)
 
-3️⃣ [订阅 Apple Music 该选哪个区？——中美坡港日五大地区全对比](https://steppark.net/15844652241485.html)
+3️⃣ [订阅 Apple Music 该选哪个区？——中美坡港台日六大地区全对比](https://steppark.net/16357088669226.html)
 
 4️⃣ [跨平台设计时的思考路径](https://steppark.net/15706056024784.html)
 
